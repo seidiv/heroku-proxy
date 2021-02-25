@@ -1,0 +1,13 @@
+{
+  "name": "heroku",
+  "description": "Deploy to Heroku.",
+  "stack": "container",
+  "env": {
+    "UUID": {
+      "description": "UUID"
+    },
+    "AlterID": {
+      "description": "AlterID"
+    }
+  }
+}

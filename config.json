@@ -6,8 +6,8 @@
         "settings": {
             "clients": [
                 {
-                    "id": "${UUID}",
-                    "alterId": ${AlterID}
+                    "id": "e9a80b6f-a5ed-4599-b8bf-2bbcda013d51",
+                    "alterId": 64
                 }
             ]
         },
